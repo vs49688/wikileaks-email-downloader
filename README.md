@@ -1,4 +1,8 @@
 # Wikileaks Downloader
+
+## This repo is archived, see https://github.com/vs49688/dnc-downloader
+
+
 A simple script that downloads all the DNC and Podesta emails from Wikileaks into their original format, so they can be 
 loaded into an email client for further perusal.
 
